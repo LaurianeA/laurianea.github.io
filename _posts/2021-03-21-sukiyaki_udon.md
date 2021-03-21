@@ -5,8 +5,6 @@ date:   2021-03-21 12:34:14 +0100
 categories: jekyll update
 ---
 
-# Sukiyaki Udon
-
 ## Nombre de personnes
 2
 
