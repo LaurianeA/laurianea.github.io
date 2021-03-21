@@ -8,6 +8,8 @@ categories: jekyll update
 ## Nombre de personnes
 2
 
+<img src="https://user-images.githubusercontent.com/32293385/111903121-efc2e780-8a40-11eb-9c19-15264d96e095.jpg" width="200">
+
 ## Ingredients
 
 - 2 paquets de udon
@@ -29,3 +31,6 @@ categories: jekyll update
 5. Ajouter la sauce
 6. Mettre la ciboule à la fin
 7. Servir avec un jaune d'oeuf
+
+## Source
+http://a-vos-baguettes.blogspot.com/2009/12/sukiyaki-udon.html
