@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brioche Perdue Tiramissu"
+title:  "Brioche Perdue Tiramisu"
 date:   2021-10-29 12:34:14 +0100
 categories: jekyll update
 ---
